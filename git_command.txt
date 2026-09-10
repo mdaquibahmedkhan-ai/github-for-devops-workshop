@@ -3,3 +3,18 @@ git status
 git add
 git commit -m "added testing files"
 git restore
+
+   1 try { . "c:\Users\mdaqu\AppData\Local\Programs\Microsoft VS Code\645f29cc31\resources\app\out\vs\workbench\contrib\termina...
+   2  git remote add origin https://github.com/mdaquibahmedkhan-ai/github-for-devops-workshop.git                                 
+   3 git remote -v                                                                                                                
+   4 git status                                                                                                                   
+   5 git push origin master                                                                                                       
+   6 git remote -v                                                                                                                
+   7 clear                                                                                                                        
+   8 git remote -v                                                                                                                
+   9 git remote set-url origin https://github.com/mdaquibahmedkhan-ai/github-for-devop...
+  10 clear                                                                                                                        
+  11 git remote -v                                                                                                                
+  12 git push origin master                                                                                                       
+  13 clear                                                                                                                        
+  14 git status                                             
